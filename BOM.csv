@@ -1,0 +1,15 @@
+Designator,Description,Manufacturer 1,Manufacturer Part Number 1,Supplier 1,Supplier Currency 1,Supplier Order Qty 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"C1","CAP CER 0.1UF 50V X7R 0805","TDK Corporation","C2012X7R1H104K085AA","Digi-Key","USD","1","0.11","0.11"
+"C2, C4, C6","CAP CER 10000PF 50V C0G 0805","TDK Corporation","C2012C0G1H103K060AA","Digi-Key","USD","3","0.35","1.05"
+"C3, C5","CAP CER 10UF 16V X5R 0805","TDK Corporation","C2012X5R1C106K085AC","Digi-Key","USD","2","0.24","0.48"
+"D1","LED YELLOW CLEAR 0805 SMD","Lite-On Inc.","LTST-C171KSKT","Digi-Key","USD","1","0.33","0.33"
+"D2","TVS DIODE 24VWM 150VC 0603","Littelfuse Inc.","PGB1010603NRHF","Digi-Key","USD","1","0.68","0.68"
+"D3","LED RED CLEAR 0805 SMD","Lite-On Inc.","LTST-C171KRKT","Digi-Key","USD","1","0.31","0.31"
+"D4","LED GREEN CLEAR 0805 SMD","Lite-On Inc.","LTST-C171GKT","Digi-Key","USD","1","0.29","0.29"
+"E1","FERRITE BEAD 220 OHM 0805 1LN","Murata Electronics North America","BLM21PG221SN1D","Digi-Key","USD","1","0.10","0.1"
+"J1","CONN PLUG USB A 4POS SMD R/A","Molex, LLC","0480372200","Digi-Key","USD","1","1.24","1.24"
+"R1, R2","RES SMD 200K OHM 1% 1/8W 0805","Yageo","RC0805FR-07200KL","Digi-Key","USD","2","0.10","0.2"
+"R3, R5","RES SMD 150 OHM 1% 1/8W 0805","Yageo","RC0805FR-07150RL","Digi-Key","USD","2","0.10","0.2"
+"R4","RES SMD 66.5 OHM 1% 1/8W 0805","Yageo","RC0805FR-0766R5L","Digi-Key","USD","1","0.10","0.1"
+"U1","IC OSC SGL TIMER 100KHZ 8-SOIC","Texas Instruments","NE555DR","Digi-Key","USD","1","0.47","0.47"
